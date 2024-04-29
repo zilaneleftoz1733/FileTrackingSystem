@@ -1,0 +1,8 @@
+C:\Users\lzila\source\repos\FileWatcherApp\FileWatcherApp\obj\Debug\FileWatcherApp.csproj.AssemblyReference.cache
+C:\Users\lzila\source\repos\FileWatcherApp\FileWatcherApp\obj\Debug\FileWatcherApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\lzila\source\repos\FileWatcherApp\FileWatcherApp\obj\Debug\FileWatcherApp.csproj.CoreCompileInputs.cache
+C:\Users\lzila\source\repos\FileWatcherApp\FileWatcherApp\bin\Debug\FileWatcherApp.exe.config
+C:\Users\lzila\source\repos\FileWatcherApp\FileWatcherApp\bin\Debug\FileWatcherApp.exe
+C:\Users\lzila\source\repos\FileWatcherApp\FileWatcherApp\bin\Debug\FileWatcherApp.pdb
+C:\Users\lzila\source\repos\FileWatcherApp\FileWatcherApp\obj\Debug\FileWatcherApp.exe
+C:\Users\lzila\source\repos\FileWatcherApp\FileWatcherApp\obj\Debug\FileWatcherApp.pdb

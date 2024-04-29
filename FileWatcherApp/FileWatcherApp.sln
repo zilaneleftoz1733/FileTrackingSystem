@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileWatcherApp", "FileWatcherApp\FileWatcherApp.csproj", "{5B13BBE4-3D45-4D99-8B82-1B4E7564EE96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B13BBE4-3D45-4D99-8B82-1B4E7564EE96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B13BBE4-3D45-4D99-8B82-1B4E7564EE96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B13BBE4-3D45-4D99-8B82-1B4E7564EE96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B13BBE4-3D45-4D99-8B82-1B4E7564EE96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21B6F276-8D9B-4FCC-B54D-9DA08358389F}
+	EndGlobalSection
+EndGlobal
